@@ -4,28 +4,28 @@
   "description": "RethinkDB Fusion is an open-source developer platform for building realtime, scalable web apps. It is built on top of RethinkDB, and allows app developers to get started with building modern, engaging apps without writing any backend code.",
   "main": "index.js",
   "dependencies": {
-    "geval": "^2.1.1",
-    "snake-case": "^1.1.1"
+    "geval": "^2.2.0",
+    "snake-case": "^2.1.0"
   },
   "devDependencies": {
-    "babel-eslint": "^4.1.4",
-    "babelify": "^6.4.0",
-    "browserify": "^12.0.1",
-    "browserify-shim": "^3.8.11",
-    "chai": "^3.4.0",
-    "gulp": "^3.9.0",
-    "gulp-babel": "^6.0.0",
-    "gulp-sourcemaps": "^1.6.0",
-    "jasmine": "^2.3.2",
-    "lodash": "^3.10.1",
-    "mocha": "^2.3.3",
-    "mocha-phantomjs": "^4.0.1",
-    "phantomjs": "^1.9.18",
-    "rx": "^4.0.7",
+    "babel-eslint": "^7.1.1",
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.1",
+    "browserify-shim": "^3.8.12",
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-sourcemaps": "^1.9.1",
+    "jasmine": "^2.5.2",
+    "lodash": "^4.17.3",
+    "mocha": "^3.2.0",
+    "mocha-phantomjs": "^4.1.0",
+    "phantomjs": "^2.1.7",
+    "rx": "^4.1.0",
     "underscore": "^1.8.3",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0",
-    "watchify": "^3.5.0"
+    "watchify": "^3.8.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
